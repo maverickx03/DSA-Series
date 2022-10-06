@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int interpol_search(int arr[], int lb, int ub, int x)
 {

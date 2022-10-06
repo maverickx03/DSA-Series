@@ -1,1 +1,1 @@
-Find the element 68 in the array arrangement 10,20,35,45,55,68,88,91 .
+Find the element 68 in the Array 10, 20, 35, 45, 55, 68, 88, 91 by Interpolation Search.
